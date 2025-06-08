@@ -2,7 +2,7 @@
 Welcome to **Alcyonite**, a collaborative space for building thoughtful, creative digital projects. We hope you will be entertained and inspired!
 
 ### 🌐 About Us
-**Alcyonite** is a space dedicated to crafting meaningful blogs that reveals the magic of Computer Science. Our mission is to make complex ideas easy to understand, engaging, and accessible. Each posts are carefully written to be creative, practical, inspirational, accessible and above all — fun Whether the audience a curious beginner or a seasoned coder, we strive to spark curiosity and ignite a deeper understanding of the digital world for them
+**Alcyonite** is a space dedicated to crafting meaningful blogs that reveals the magic of Computer Science. Our mission is to make complex ideas easy to understand, engaging, and accessible. Each posts are carefully written to be creative, practical, inspirational, accessible and above all — fun. Whether the audience a curious beginner or a seasoned coder, we strive to spark curiosity and ignite a deeper understanding of the digital world for them
 
 We believe in:
 - 🎨 **Creativity** — bold ideas, expressive code, and beautiful design
